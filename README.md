@@ -11,8 +11,7 @@ karaniitg.pmrf18@gmail.com
 1. http://www.reading.ac.uk/bioinf/IntFOLD/
 2. http://biskit.pasteur.fr/
 3. http://raptorx.uchicago.edu/
-4. https://geno3d-prabi.ibcp.fr/cgi-bin/geno3d_automat.pl?page=/GENO3D/geno3d_home.
-html
+4. https://geno3d-prabi.ibcp.fr/cgi-bin/geno3d_automat.pl?page=/GENO3D/geno3d_home.html
 5. https://salilab.org/modeller/
 6. http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index
 7. http://www.scfbio-iitd.res.in/bhageerath/bhageerath_h.jsp
